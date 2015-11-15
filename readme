@@ -1,0 +1,6 @@
+	Shreyash Sherje
+	111403043
+	railway reservation 
+	
+	Description =>>
+			In the project railway reservation system a programme which should work similar to the railway reservation system is tried . In the programme the user details are read from a file . The reservation , and cancellation details are also read from a file and saved to the file for later purpose . File sytem is used in the project . The seat availablity according to the class are provided . The concession are provided in fare . The routes of the railways are accesed with the help of data structure such as graph and the linked list . The data structure graph is a weighted graph which uses distance  as a weight between two consecutive stations . In the linked  list for a every station the name of the trains passing through the station , fare betn that 2 station, time of the arriaval and depature of he trains from the station for particular train  is stored .The distance betn the two stations then point to the lined list which contains the name of the trains , time of arrival and departure of the train , and the fare of the train till that station .
